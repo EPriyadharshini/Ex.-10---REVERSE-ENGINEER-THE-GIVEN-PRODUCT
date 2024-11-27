@@ -1,5 +1,4 @@
-
-# Ex. 04 - REVERSE ENGINEER THE GIVEN PRODUCT
+Ex04   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,13 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![243181166-ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7](https://github.com/charumathiramesh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120204455/250973b6-e83c-4d81-bc9b-35e977c90a75)
-
+![image](https://github.com/user-attachments/assets/b2e99595-42ae-46b0-8f13-cb210cdad4c8)
 ### Output:
-![243181171-d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3](https://github.com/charumathiramesh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120204455/8d959fbd-7304-4261-b316-97a16e174375)
+![image](https://github.com/user-attachments/assets/0b222125-9e06-47d7-bf28-88b1609999b7)
 
 
-### Name: Priyadharshini E
+### Name: priyadharshini e
 ### Register Number: 212223230159
 
 ## RESULT:
