@@ -1,6 +1,6 @@
-Ex04   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 18/10/2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,13 @@ Ex04   - REVERSE ENGINEER THE GIVEN PRODUCT
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/b2e99595-42ae-46b0-8f13-cb210cdad4c8)
+<img width="666" height="446" alt="image" src="https://github.com/user-attachments/assets/496d8ec8-81da-4730-8e36-2e9ecd7f8f83" />
+
 ### Output:
-![image](https://github.com/user-attachments/assets/0b222125-9e06-47d7-bf28-88b1609999b7)
+![ezgif-52d9e531b02261](https://github.com/user-attachments/assets/dcc65457-964b-40e5-9ea4-cb31db1461b4)
+<img width="1268" height="543" alt="image" src="https://github.com/user-attachments/assets/f3c436ad-302b-4558-8bd0-7841e7aa22e3" />
 
-
-### Name: priyadharshini e
+### Name: PRIYADHARSHINI E
 ### Register Number: 212223230159
 
 ## RESULT:
